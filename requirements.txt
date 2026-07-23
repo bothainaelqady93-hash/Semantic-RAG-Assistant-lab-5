@@ -1,0 +1,27 @@
+# Core app
+streamlit>=1.36.0
+
+# Document loading
+pypdf>=4.2.0
+python-docx>=1.1.0
+
+# Preprocessing
+nltk>=3.8.1
+scikit-learn>=1.4.0
+
+# Embeddings
+sentence-transformers>=2.7.0
+torch>=2.2.0
+
+# Vector database
+chromadb>=0.5.0
+
+# Data handling
+pandas>=2.2.0
+numpy>=1.26.0
+
+# LLM API calls
+requests>=2.31.0
+
+# Local environment variables
+python-dotenv>=1.0.1
